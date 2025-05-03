@@ -12,7 +12,7 @@ The project performs automatic person tracking on selected video demos. Users ca
 Execute the `Ui_main.py` file to launch the GUI.
 
 
-#### Important Notes
+## Important Notes
 After each test, the program generates an output video named output.mp4 in the temp_output directory.
 
 Before selecting a new demo (e.g., demo2), make sure to rename the previously generated output.mp4 to avoid it being overwritten.
