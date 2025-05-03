@@ -17,7 +17,7 @@ After each test, the program generates an output video named output.mp4 in the t
 
 Before selecting a new demo (e.g., demo2), make sure to rename the previously generated output.mp4 to avoid it being overwritten.
 
-Recommended testing workflow:
+### Recommended testing workflow:
 
 Select demo1 and let the processing complete.
 
